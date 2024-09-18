@@ -1,5 +1,13 @@
 body{
 
+    background-color: #1b1b32;
+    color: #f5f6f7;
+    font-family: Tahoma;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+
     text-align: center;
     font-family: "Arial";
 
@@ -10,3 +18,4 @@ body{
     padding: 0;
 
 }
+
