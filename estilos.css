@@ -1,5 +1,7 @@
 body{
 
+
+
     background-color: #1b1b32;
     color: #f5f6f7;
     font-family: Tahoma;
@@ -16,6 +18,12 @@ body{
     font-family: Tahoma;
     margin: 0;
     padding: 0;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 
 }
 
